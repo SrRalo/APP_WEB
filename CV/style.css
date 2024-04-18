@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0%;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#general {
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 2000px;
+    background-color: white;
+}
+
+#content1 {
+    margin-top: auto;
+    width: 100%;
+    height: 400px;
+    background-color: inherit;  
+}
+
+#fotocv {
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+    width: 240px;
+    height: 240px;
+    background-color: white;
+}
+
+#foto1 {
+    margin: auto;
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+}
+
+#datos1 {
+    margin: auto;
+    margin-top: 100px;
+    margin-right: 150px;
+    float: right;
+    background-color: inherit;   
+}
+
+h1, h2, h3 {
+    background-color: inherit;
+  }
+
+#contactos {
+    margin: auto;
+    margin-top: 80px;
+    margin-left: 100px;
+    float:inline-start;
+    background-color: inherit;
+    align-items:center;
+}
+
+#contacto1 {
+    float: inline-start;
+    width: 200px;
+    height: 50px;
+    background-color: inherit;
+}
+
+#contacto2 {
+    float: inline-start;
+    width: 200px;
+    height: 50px;
+    background-color: inherit;
+}
+
+
+#estudios {
+    margin-top: auto;
+    width: 100%;
+    height: 400px;
+    background-color: inherit;
+}
+
+b{
+    background-color: inherit;
+}
+#estudios2{
+    text-align: center;
+}
+
+ul{
+    background-color: inherit;
+}
+
+li{
+    background-color: inherit;
+    margin: auto;
+    margin-top: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#experiencia {
+    margin-top: auto;
+    width: 100%;
+    height: 400px;
+    background-color: inherit;
+}
+
+#capacitaciones {
+    margin-top: auto;
+    width: 100%;
+    height: 400px;
+    background-color: inherit;
+}
+
+#referencias {
+    margin-top: auto;
+    width: 100%;
+    height: 400px;
+    background-color: inherit;  
+}
+
+#tabla1 {
+    background-color: gray;
+    margin: auto;
+    margin-top: 50px;
+    width: 800px;
+    height: 200px;
+    
+}
+
+th, td, tr{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
